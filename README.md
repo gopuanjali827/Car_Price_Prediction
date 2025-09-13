@@ -1,4 +1,5 @@
 CAR PRICE PREDICTION
+
 📌 Project Overview
 
 The goal of this project is to build a machine learning model that predicts the price of a car based on various features such as brand, model, mileage, horsepower, fuel type, and more.
